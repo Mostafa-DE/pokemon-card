@@ -1,0 +1,25 @@
+.pokeIndex-cards{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+
+.Winner{
+    color:green;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+.Loser{
+    color: red;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+.exp-PokeIndex{
+    font-weight: 600;
+    text-align: center;
+}
+
